@@ -1,0 +1,44 @@
+body {
+    background-color: seashell;
+}
+h1 {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+}
+h3 {
+    font-size: 24px;
+    color: navy;
+    font-family: "Open Sans", sans-serif;
+}
+p {
+    font-family: "Open Sans", sans-serif;
+}
+ul {
+     font-family: "Open Sans", sans-serif;
+}
+ol {
+    font-family: "Open Sans", sans-serif;
+}
+button {
+    font-size: 24px;
+    text-align: center;
+    background-color: coral;
+}
+a:link {
+    text-decoration: none;
+    color: navy;
+}
+a:visited {
+    text-decoration: none;
+    color: navy;
+}
+a:hover {
+    text-decoration: underline;
+    color: navy;
+}
+img {
+    height: 300px;
+    width: 300px;
+}
